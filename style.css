@@ -91,6 +91,7 @@ nav ul li a:hover {
   background: linear-gradient(135deg, var(--light-bg) 10%, var(--secondary-beige) 100%);
   padding: 90px 20px;
   text-align: center;
+  position: relative;
 }
 
 #home h1 {
@@ -146,7 +147,7 @@ nav ul li a:hover {
 
 .scroll-down {
   position: absolute;
-  bottom: 18px;
+  bottom: 9%;
   left: 50%;
   transform: translateX(-50%);
   animation: bounce 2s infinite;
