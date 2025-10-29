@@ -9,3 +9,9 @@ It was built with **HTML, CSS, and JavaScript** and serves as a professional pla
 - **Projects:** Detailed project descriptions with images, tech stack, and links to source code or live demos
 - **Skills:** Frontend, backend, tools, and soft skills
 - **Contact:** Contact form and social media links
+
+## Author
+- **Name:** Lee Jing Jie
+- **Email:** jingjielee123@gmail.com
+- **LinkedIn:** linkedin.com/in/lee-jing-jie-900b86297
+- **GitHub:** github.com/DoubleJJie
