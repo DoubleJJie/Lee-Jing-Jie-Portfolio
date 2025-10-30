@@ -224,15 +224,22 @@ nav ul li a:hover {
 
 @media (max-width: 768px) {
   .about-content {
+    display: flex;
     flex-direction: column;
-    text-align: center;
     align-items: center;
+    text-align: center;
   }
 
   .about-img {
     max-width: 200px;
-    margin-bottom: 20px;
     margin: 0 auto 20px;
+    display: flex;           
+    justify-content: center;
+  }
+
+  .about-img img {
+    width: 100%;
+    height: auto;
   }
 }
 
