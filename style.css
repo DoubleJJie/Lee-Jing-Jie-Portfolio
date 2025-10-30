@@ -222,27 +222,6 @@ nav ul li a:hover {
   line-height: 1.8;
 }
 
-@media (max-width: 768px) {
-  .about-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .about-img {
-    max-width: 200px;
-    margin: 0 auto 10px;
-    display: flex;           
-    justify-content: center;
-  }
-
-  .about-img img {
-    width: 100%;
-    height: auto;
-  }
-}
-
 .about-button {
   display: inline-block;
   padding: 10px 25px;
@@ -717,6 +696,25 @@ footer {
 
   #home h2 {
     font-size: 1.3rem;
+  }
+
+  .about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .about-img {
+    max-width: 200px;
+    margin: 0 auto;
+    display: flex;           
+    justify-content: center;
+  }
+
+  .about-img img {
+    width: 100%;
+    height: auto;
   }
 
   .education-header {
