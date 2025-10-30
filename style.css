@@ -226,11 +226,13 @@ nav ul li a:hover {
   .about-content {
     flex-direction: column;
     text-align: center;
+    align-items: center;
   }
 
   .about-img {
     max-width: 200px;
     margin-bottom: 20px;
+    margin: 0 auto 20px;
   }
 }
 
